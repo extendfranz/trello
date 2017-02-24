@@ -1,7 +1,7 @@
 {
   "name": "Trello",
   "version": "1.0.0",
-  "description": "Unofficial Help Scout plugin for Trello",
+  "description": "Unofficial Trello plugin for Franz",
   "main": "index.js",
   "author": "Daniel J Griffiths <dgriffiths@section214.com>",
   "license": "MIT",
