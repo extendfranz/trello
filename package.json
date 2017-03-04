@@ -1,6 +1,6 @@
 {
   "name": "Trello",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Unofficial Trello plugin for Franz",
   "main": "index.js",
   "author": "Daniel J Griffiths <dgriffiths@section214.com>",
