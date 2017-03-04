@@ -162,7 +162,7 @@ function updateDisplay(latestVer) {
 		$('.header-franz-icon').addClass('new-notifications');
 	} else {
 		$('.franz-about-update').addClass('franz-uptodate');
-		$('.franz-about-update').html('The devRant Franz integration is up to date!');
+		$('.franz-about-update').html('The Trello Franz integration is up to date!');
 		$('.header-franz-icon').removeClass('new-notifications');
 	}
 }
