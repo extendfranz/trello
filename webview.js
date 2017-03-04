@@ -158,7 +158,7 @@ function updateDisplay(latestVer) {
 		$('.header-franz-icon').removeClass('new-notifications');
 	} else if (currentVer < latestVer) {
 		$('.franz-about-update').addClass('franz-outdated');
-		$('.franz-about-update').html('<a href="https://github.com/extendfranz/devrant/releases/latest" target="_blank">Version ' + latestVer + ' is available!</a>');
+		$('.franz-about-update').html('<a href="https://github.com/extendfranz/trello/releases/latest" target="_blank">Version ' + latestVer + ' is available!</a>');
 		$('.header-franz-icon').addClass('new-notifications');
 	} else {
 		$('.franz-about-update').addClass('franz-uptodate');
